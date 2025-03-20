@@ -1,6 +1,6 @@
 📌 Description
 
-This project implements a real-time overlay based on YOLOv8 to detect enemies in CS:GO. It uses ONNX Runtime for model inference and Pygame for overlay rendering. The integrated aimbot enables smooth target tracking in real-time.
+This project implements a real-time overlay based on YOLOv8 to detect enemies in CS2. It uses ONNX Runtime for model inference and Pygame for overlay rendering. The integrated aim enables smooth target tracking in real-time (but not realy good).
 The model used in this project was entirely created and annotated by me, using the dataset available at this link :  https://universe.roboflow.com/leksa-ub9gf/cs2-dataset-b4kpu/dataset/6
 
 🚀 Features
