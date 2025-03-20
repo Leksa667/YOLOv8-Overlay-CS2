@@ -5,6 +5,7 @@ The model used in this project was entirely created and annotated by me, using t
 
 
 
+
 🚀 Features
 
 Real-time enemy player detection
@@ -16,6 +17,7 @@ CUDA (GPU) acceleration for fast inference
 Optional aimbot with smooth tracking
 
 Simple user interface with buttons and hotkeys
+
 
 
 
@@ -42,9 +44,11 @@ Place the best.onnx file in the main project folder (or train a new model).
 
 
 
+
 🎯 Usage
 
 Run the main script
+
 
 
 
@@ -58,11 +62,13 @@ K: Enable/disable aim (hold to track target)
 
 
 
+
 🛠️ Future Development
 
 Performance optimization improvements
 
 Enhanced aim target selection
+
 
 
 
