@@ -22,6 +22,8 @@ Simple user interface with buttons and hotkeys
 
 
 
+
+
 ⚙️ Installation
 
 1️⃣ Requirements
